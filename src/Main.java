@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        // Kod av Adam
         // 1. Läs igenom hela boken, alice.txt och berätta hur många rader den innehåller
         // 2. Gör samma sak, men räkna bara rader som innehåller text
         // 3. Läs hela boken och räkna hur många ord som den består av
